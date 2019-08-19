@@ -9,4 +9,25 @@ body{
 }
 .header h1 {
     font-family: 'Merriweather', serif;
+    font-size: 3vw;
+    text-align: center;
+    color:darksalmon;
+    padding: 10vh 0;
+}
+.header {
+    display: block;
+    width: 100vw;
+    height: 35vh;
+    background: seagreen;
+    background-image: url("../images/header-BG.jpg");
+    background-size: cover;
+}
+.content{
+    display: block;
+    float:left;
+    width: 50%;
+    height: 35vh;
+    background-color: aqua;
+    color: black;
+    text-align: center;
 }
