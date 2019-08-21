@@ -2,3 +2,44 @@
     padding:0;
     margin:0;
 }
+.box{
+    text-align: center;
+}
+h1{
+    font-size: 3vw;
+    position: relative;
+    top:45%;
+    font-family: 'Merriweather', serif;
+}
+.box2{
+    height: 30%;
+}
+.container{
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+}
+body{
+    background-color: #8EC5FC;
+    background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
+    
+}
+p{
+    font-family: 'Nunito', sans-serif;
+}
+.box1{
+    text-align: left;
+}
+.box1 a{
+    position: relative;
+    top:10%;
+    left:1%;
+    text-decoration: none;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: darkgray;
+    color: white;
+}
+body{
+    margin:2px;
+}
