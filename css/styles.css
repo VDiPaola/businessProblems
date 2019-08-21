@@ -42,7 +42,7 @@ body{
 }
 .content:hover{
     
-    background-color: darkgray;
+    background: darkgray;
 }
 .content h2{    
     position: relative;   
