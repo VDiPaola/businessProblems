@@ -8,16 +8,19 @@
 h1{
     font-size: 3vw;
     position: relative;
-    top:45%;
     font-family: 'Merriweather', serif;
 }
 .box2{
     height: 30%;
+
+    position: relative;
+    top:10%;
 }
 .container{
     display: flex;
     height: 100vh;
     flex-direction: column;
+    min-width: 0;
 }
 body{
     background-color: #8EC5FC;
@@ -26,6 +29,8 @@ body{
 }
 p{
     font-family: 'Nunito', sans-serif;
+    font-size:2vh;
+    
 }
 .box1{
     text-align: left;
